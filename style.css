@@ -1,0 +1,49 @@
+body {
+    background: lightblue;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+#results {
+    text-align: center;
+    padding: 20px;
+    font-weight: 500;
+}
+
+#results h1 {
+    text-decoration: underline;
+    font-size: 3em;
+}
+
+#results p {
+    display: inline;
+    padding: 0 20px;
+    font-size: 2em;
+}
+
+#title {
+    text-align: center;
+    margin-top: 150px;
+    font-size: 300%;
+}
+
+#container-main {
+    border: 8px solid #303030;
+    border-radius: 10px;
+}
+
+#container-btns {
+    text-align: center;
+    padding-top: 30px;
+    margin-bottom: 50px;
+}
+
+.btn {
+    font-size: 300%;
+    border: none;
+    background: none;
+    padding: 25px;
+    margin: 10px;
+    background-color: lightcoral;
+    box-shadow: 5px 5px;
+    border-radius: 5px;
+}
